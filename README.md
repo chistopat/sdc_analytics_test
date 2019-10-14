@@ -32,5 +32,3 @@ python3.7 run.py --url 'https://sdcimages.s3.yandex.net/test_task/data'
 {"is_selfdrived": true, "distance": 2554.2535861729675, "units": "Meters", "trip_time": 489, "arrival_point": "(36.108061842432654, -115.15675158519913)", "arrival_time": "2019-01-07T01:35:56", "destination_point": "(36.100759105185894, -115.1514586469808)", "destination_time": "2019-01-07T01:44:05"}
 {"is_selfdrived": false, "distance": 84.31702287672321, "units": "Meters", "trip_time": 6, "arrival_point": "(36.100759105185894, -115.1514586469808)", "arrival_time": "2019-01-07T01:44:05", "destination_point": "(36.100771459084264, -115.15052042680973)", "destination_time": "2019-01-07T01:44:11"}
 ```
-
-
